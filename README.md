@@ -1,4 +1,4 @@
-### Elasticsearch demo with Microsoft SQL Server and Logstash syncing
+# Elasticsearch demo with Microsoft SQL Server and Logstash syncing
 
 ## Intro
 
