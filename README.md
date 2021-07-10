@@ -27,7 +27,7 @@ Start using Kibana on http://localhost:5601/ and create a new index pattern from
 
 
 
-Password used for the demo is **qweQWE123** 
+Password used for the demo db is **qweQWE123** 
 
 ## Quick eye on the content
 
