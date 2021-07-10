@@ -21,7 +21,7 @@ docker-compose up
 ```
 
 That's it. You should be able to see the containers firing up, mssql will wait 15 seconds at build for sql server to be ready before restoring the backup.  
-Navigate to http://localhost:9200/idx_wwi_invoices/_search?pretty=true&q=*:*&size=100 to make sure index is created and loaded with data  
+Navigate to http://localhost:9200/idx_wwi_invoices/_search?pretty=true&q=*:*&size=100 to make sure the index is created and loaded with data.  
 
 Start using Kibana on http://localhost:5601/ and create a new index pattern from Analytics > Discover using index name *idx_wwi_invoices*
 
